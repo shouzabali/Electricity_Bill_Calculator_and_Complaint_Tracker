@@ -78,3 +78,4 @@ bashg++ main_code.cpp -o main_code
 📁 Output Files
 FileContentsbills.txt Saved bill amounts 
 complaints.txt Filed complaint records
+![Bill Output](screenshot.png)
