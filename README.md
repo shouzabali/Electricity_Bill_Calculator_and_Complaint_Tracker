@@ -1,4 +1,4 @@
-# Electricity_Bill_Calculator_and_Complaint_Tracker
+ Electricity_Bill_Calculator_and_Complaint_Tracker
 Electricity Bill Calculator & Complaint Tracker
 A console-based C++ application that calculates electricity bills based on HAZECO tariff rates and allows users to file and track complaints.
 
